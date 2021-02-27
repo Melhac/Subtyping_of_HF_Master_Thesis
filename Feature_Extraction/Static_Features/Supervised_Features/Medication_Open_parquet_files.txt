@@ -1,0 +1,7 @@
+df_forMerge.append(pq.read_table('Cohort/Feature_Extraction/Supervised_ALL_HF/oral_diuretics').to_pandas()) 
+df_forMerge.append(pq.read_table('Cohort/Feature_Extraction/Supervised_ALL_HF/angiotensin_receptor_blockers').to_pandas()) 
+df_forMerge.append(pq.read_table('Cohort/Feature_Extraction/Supervised_ALL_HF/beta_blockers').to_pandas()) 
+df_forMerge.append(pq.read_table('Cohort/Feature_Extraction/Supervised_ALL_HF/entresto').to_pandas()) 
+df_forMerge.append(pq.read_table('Cohort/Feature_Extraction/Supervised_ALL_HF/IV_diuretics').to_pandas()) 
+df_forMerge.append(pq.read_table('Cohort/Feature_Extraction/Supervised_ALL_HF/long_acting_nitrates').to_pandas()) 
+df_forMerge.append(pq.read_table('Cohort/Feature_Extraction/Supervised_ALL_HF/mineralocorticoid_receptor_anta').to_pandas()) 

@@ -1,0 +1,7 @@
+[condition_oral_diuretics,"oral_diuretics"],
+[condition_angiotensin_receptor_blockers,"angiotensin_receptor_blockers"],
+[condition_beta_blockers,"beta_blockers"],
+[condition_entresto,"entresto"],
+[condition_IV_diuretics,"IV_diuretics"],
+[condition_long_acting_nitrates,"long_acting_nitrates"],
+[condition_mineralocorticoid_receptor_anta,"mineralocorticoid_receptor_anta"],

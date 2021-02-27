@@ -1,0 +1,40 @@
+condition_oral_diuretics=( 
+Drug( "%Loop Diuretics%")
+|Drug( "%Thiazide diuretics%")
+|Drug( "%Potassium sparing diuretics%")) 
+condition_angiotensin_receptor_blockers=( 
+Drug( "%Azilsartan%")
+|Drug( "%Candesartan%")
+|Drug( "%Eprosartan%")
+|Drug( "%Irbesartan%")
+|Drug( "%Losartan%")
+|Drug( "%Olmesartan%")
+|Drug( "%Telmisartan%")
+|Drug( "%Valsartan%")) 
+condition_beta_blockers=( 
+Drug( "%Acebutolol%")
+|Drug( "%Atenolol%")
+|Drug( "%Bisoprolol%")
+|Drug( "%Metoprolol%")
+|Drug( "%Nadolol%")
+|Drug( "%Nebivolol%")
+|Drug( "%Propranolol%")) 
+condition_entresto=( 
+Drug( "%Entresto%")) 
+condition_IV_diuretics=( 
+Drug( "%Loop Diuretics%")
+|Drug( "%Thiazide diuretics%")
+|Drug( "%Potassium sparing diuretics%")
+|Drug( "%Bumetanide%")
+|Drug( "%Ethacrynate sodium%")
+|Drug( "%Ethacrynic acid%")
+|Drug( "%Furosemide%")
+|Drug( "%Furosemide%")
+|Drug( "%Furosemide%")
+|Drug( "%Torsemide%")) 
+condition_long_acting_nitrates=( 
+Drug( "%Isosorbide dinitrate%")
+|Drug( "%Isosorbide mononitrate%")) 
+condition_mineralocorticoid_receptor_anta=( 
+Drug( "%Spironolactone%")
+|Drug( "%Eplerenone%")) 
